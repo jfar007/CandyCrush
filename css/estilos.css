@@ -54,6 +54,11 @@ body{
   background: rgba(232, 115, 6, 0.5);
 }
 
+#effect{
+	text-align: center;
+	 width: 100%;
+}
+
 
 .buttons{
   height: 10%;
@@ -102,5 +107,10 @@ div[class^='col']{
 .elemento{
   width: 99.4px;
   height: 96px;
+}
 
+p span
+{
+	padding: 0px !important;
+	margin: 0px !important;
 }
